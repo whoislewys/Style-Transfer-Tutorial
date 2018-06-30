@@ -20,7 +20,6 @@ scipy
 jupyter
 matplotlib
 Pillow
-scikit-learn
 
 ################################################################
 # TensorFlow can be installed either as CPU or GPU versions.
@@ -29,9 +28,6 @@ scikit-learn
 tensorflow		# CPU Version of TensorFlow.
 # tensorflow-gpu	# GPU version of TensorFlow.
 
-# Builder API for TensorFlow used in many of the tutorials.
-prettytensor
-
 ################################################################
 # The tutorial on Reinforcement Learning uses OpenAI Gym.
 # Uncomment this line if you want to run that tutorial.
@@ -39,4 +35,3 @@ prettytensor
 # gym[atari]
 
 ################################################################
-

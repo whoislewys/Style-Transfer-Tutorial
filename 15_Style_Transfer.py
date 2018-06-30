@@ -31,8 +31,8 @@
 # There are some details of the Style Transfer algorithm not shown in this flowchart, e.g. regarding calculation of the Gram-matrices, calculation and storage of intermediate values for efficiency, a loss-function for denoising the mixed-image, and normalization of the loss-functions so they are easier to scale relative to each other.
 
 
-#from IPython.display import Image, display
-#Image('images/15_style_transfer_flowchart.png')
+from IPython.display import Image, display
+Image('images/15_style_transfer_flowchart.png')
 
 
 # ## Imports
